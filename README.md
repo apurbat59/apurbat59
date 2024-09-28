@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **AI/ML**
 
-- 🌱 I’m currently learning **Python,OpenCV,AI/ML**
+- 🌱 I’m currently learning **Python,OpenCV,AI/ML,Kaggel**
 
 - 👨‍💻 All of my projects are available at [https://apurbathakur.tech](https://apurbathakur.tech)
 
